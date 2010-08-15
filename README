@@ -1,0 +1,3 @@
+Note: This bootloader supports the Beacon2 only.  Modified version of the
+Sanguino bootloader, which is based on ADAboot.
+This one supports the 4MHz crystal on the Beacon2.
